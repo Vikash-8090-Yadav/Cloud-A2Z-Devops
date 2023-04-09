@@ -35,8 +35,11 @@ AWS services to build scalable, flexible, and cost-effective solutions for your 
 
 
 ## IMages 
+1. I uoloaded the idex.hmtl file in the bucket 
 
+![Screenshot from 2023-04-09 22-48-35](https://user-images.githubusercontent.com/85225156/230788268-fc96c04a-d426-4382-96e0-39e975bce268.png)
 
+2. After enabling web static hosting and editing bucket policy that is given below .
 
 
 ```
@@ -56,3 +59,12 @@ AWS services to build scalable, flexible, and cost-effective solutions for your 
     ]
 }
 ```
+
+
+![Screenshot from 2023-04-09 22-43-04](https://user-images.githubusercontent.com/85225156/230788303-2a450bf0-328c-41d0-a116-e41e8006a458.png)
+
+3. After creating all the scuessfull changes  the resukt is this !! . THe site is running on the public adress provided by the aws  web stattic hosting !! 
+
+![Screenshot from 2023-04-09 22-43-34](https://user-images.githubusercontent.com/85225156/230788302-19f3c68e-5ec8-4713-98aa-0eb5ce30c28f.png)
+
+
