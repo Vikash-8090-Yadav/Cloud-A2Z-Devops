@@ -67,4 +67,8 @@ AWS services to build scalable, flexible, and cost-effective solutions for your 
 
 ![Screenshot from 2023-04-09 22-43-34](https://user-images.githubusercontent.com/85225156/230788302-19f3c68e-5ec8-4713-98aa-0eb5ce30c28f.png)
 
-
+# What i learnt -> 
+    1. Sw3 is ntoign but its like a drive which  can store anything . 
+    2. We connect this sw3 with many other services like EC2 , EKS , codebuild etc . 
+    3 . It's very imprtant to keep all your artificats in the SW3 only , although it's not necessaey but it's a  good practice !
+# In the next task i do the same with the ec2 and connect s3 with ec2  . 
