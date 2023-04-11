@@ -21,7 +21,7 @@ curl -O public-link-of-the-zip
 
 then  to run the html (index.html) am using `lite-server` tool . as it run the site directly to the server without any  breakpoint .
 
-Below is the images showignt  the public ip address of the image and it's expose on the 3000 port ,  you can do this by setting the security group in the EC2 . 
+Below is the images showignt  the public ip address of the insatnce and it's expose on the 3000 port ,  you can do this by configuring  the security group in the EC2 . 
 ![Screenshot from 2023-04-11 23-04-22](https://user-images.githubusercontent.com/85225156/231245418-bfbc2f7b-a122-42e3-a1f5-cce64a073001.png)
 
 
