@@ -1,5 +1,8 @@
 # Cloud-A2Z-Devops
 
+![WhatsApp Image 2023-07-01 at 8 01 55 PM](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/e940a44b-ac8e-4c32-a724-555fb3a3ac3e)
+
+
 This repository contains a collection of projects and resources related to AWS services and DevOps practices. The aim of this repository is to provide a comprehensive guide from A to Z for anyone interested in learning and implementing DevOps principles using AWS services.
 
 ## Table of Contents
