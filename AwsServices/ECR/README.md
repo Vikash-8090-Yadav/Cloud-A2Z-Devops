@@ -22,7 +22,15 @@ To get started with ECR, you can follow these steps:
 
 2. **Push Container Images:** Push your Docker container images to the ECR repository using the `docker push` command or tools like AWS CLI, AWS SDKs, or container orchestration services like Amazon ECS or Amazon EKS.
 
-3. **Pull Container Images:** Pull container images from ECR repository using the `docker pull` command or by referencing the ECR repository URI in your deployment configurations.
+   To push an image to ECR, follow these steps:
+   
+   - Install and configure the AWS CLI if you haven't already.
+   - Build your Docker image using the `docker build` command.
+   - Tag your image with the ECR repository URI. The URI should follow the format: `<aws_account_id>.dkr.ecr.<region>.amazonaws.com/<repository_name>`
+   - Authenticate Docker with ECR using the `aws ecr get-login-password` command to retrieve an authentication token. (Example: `aws ecr get-login-password --region <region> | docker login --username AWS --password-stdin <aws_account_id>.dkr.ecr.<region>.amazonaws.com`)
+   - Push the tagged image to ECR using the `docker push` command. (Example: `docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/<repository_name>`)
+   
+3. **Pull Container Images:** Pull container images from the ECR repository using the `docker pull` command or by referencing the ECR repository URI in your deployment configurations.
 
 4. **Manage Access:** Control access to your ECR repositories using IAM policies. You can manage user and group permissions to push, pull, and manage images.
 
@@ -41,4 +49,3 @@ Here are some useful resources to learn more about AWS Elastic Container Registr
 - [AWS ECR Documentation](https://docs.aws.amazon.com/ecr/)
 - [AWS ECR API Reference](https://docs.aws.amazon.com/ecr/api/)
 - [AWS ECR Developer Guide](https://docs.aws.amazon.com/AmazonECR/latest/developerguide/)
-
