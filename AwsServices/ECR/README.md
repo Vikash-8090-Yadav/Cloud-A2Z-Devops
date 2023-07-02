@@ -49,3 +49,16 @@ Here are some useful resources to learn more about AWS Elastic Container Registr
 - [AWS ECR Documentation](https://docs.aws.amazon.com/ecr/)
 - [AWS ECR API Reference](https://docs.aws.amazon.com/ecr/api/)
 - [AWS ECR Developer Guide](https://docs.aws.amazon.com/AmazonECR/latest/developerguide/)
+
+## Additional resources
+
+* [Amazon ECR Blog](https://aws.amazon.com/blogs/containers/amazon-ecr-blog/)
+
+
+* [Amazon ECR GitHub Repository](https://github.com/aws/amazon-ecr)
+
+* [Amazon ECR Community Forum](https://forums.aws.amazon.com/forum.jspa?forumID=275)
+
+* [Amazon ECR Developer Guide](https://docs.aws.amazon.com/AmazonECR/latest/developerguide/)
+
+* [AWS Container Services Blog](https://aws.amazon.com/blogs/containers/)
