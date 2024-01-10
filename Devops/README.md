@@ -34,3 +34,23 @@ for cpu usage
 ```
 ![Screenshot from 2024-01-10 14-15-06](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/ac63cab4-40d8-4c17-8b06-fe35d8de28f8)
 
+```
+./internsctl.sh file_getinfo hello.txt
+```
+
+![Screenshot from 2024-01-10 14-44-30](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/49261b9f-60d2-4829-87d6-c6681944b5db)
+
+```
+vikash@User:~/Desktop/Aman$ ./internsctl.sh file_getinfo hello.txt -s
+
+vikash@User:~/Desktop/Aman$ ./internsctl.sh file_getinfo hello.txt -p
+
+vikash@User:~/Desktop/Aman$ ./internsctl.sh file_getinfo hello.txt -o
+
+vikash@User:~/Desktop/Aman$ ./internsctl.sh file_getinfo hello.txt -m
+
+```
+
+![Screenshot from 2024-01-10 14-44-30](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/3e36cb1c-d1d0-45e9-a5e3-55dde7a60039)
+
+
