@@ -60,6 +60,7 @@ vikash@User:~/Desktop/Aman$ ./internsctl.sh file_getinfo hello.txt -m
 
 ```
 
-![Screenshot from 2024-01-10 14-44-30](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/3e36cb1c-d1d0-45e9-a5e3-55dde7a60039)
+![Screenshot from 2024-01-10 15-05-32](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/21ac4315-78cc-4a1d-aad5-bae67a41d305)
+
 
 
