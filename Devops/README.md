@@ -7,6 +7,15 @@ for help
 
 ![Screenshot from 2024-01-10 14-05-02](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/08ec4a06-0d56-4b4f-b77f-f98369c6564a)
 
+for version 
+
+```
+./internsctl.sh -v
+```
+![Screenshot from 2024-01-10 15-01-20](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/0397461d-e28d-4469-b45e-2df69ec11ec4)
+
+
+
 for cpu usage 
 
 ```
