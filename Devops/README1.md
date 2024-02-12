@@ -1,10 +1,10 @@
-kj,hj**Before you start, please follow the issue title format and add yourself as Assignee**
+**Before you start, please follow the issue title format and add yourself as Assignee**
 **If the event is a multiple date event only add the starting date in the title**  
 
 ## ℹ️ Event information
 _Please complete all applicable._
 
-- **Event name**: 
+- **Event name**: HackOFiesta
 - **Event date**: 2024/04/5
 - **Estimated number of attendees**:  400 Participants (Offline) , 5000+  regsitration  (Online) 
 - **Event location**:  Indian Institutes of Information Technology , Lucknow
